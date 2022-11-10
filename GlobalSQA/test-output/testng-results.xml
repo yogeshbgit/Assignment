@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-05T13:18:52 IST" name="Default suite" finished-at="2022-08-05T13:19:33 IST" duration-ms="40410">
+    <groups>
+    </groups>
+    <test started-at="2022-08-05T13:18:52 IST" name="Default test" finished-at="2022-08-05T13:19:33 IST" duration-ms="40410">
+      <class name="TestPractise.HomePageTest">
+        <test-method signature="homepagetest()[pri:0, instance:TestPractise.HomePageTest@79207381]" started-at="2022-08-05T13:18:52 IST" name="homepagetest" finished-at="2022-08-05T13:19:32 IST" duration-ms="39630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagetest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestPractise.HomePageTest@79207381]" started-at="2022-08-05T13:19:32 IST" name="teardown" finished-at="2022-08-05T13:19:33 IST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestPractise.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

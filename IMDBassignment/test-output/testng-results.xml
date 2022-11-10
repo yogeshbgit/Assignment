@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T17:57:31 IST" name="Default suite" finished-at="2022-08-22T17:57:41 IST" duration-ms="10480">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T17:57:31 IST" name="Default test" finished-at="2022-08-22T17:57:41 IST" duration-ms="10480">
+      <class name="Test.Wiki_Test">
+        <test-method signature="wikitest()[pri:1, instance:Test.Wiki_Test@2a265ea9]" started-at="2022-08-22T17:57:31 IST" name="wikitest" finished-at="2022-08-22T17:57:41 IST" duration-ms="10142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikitest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Test.Wiki_Test@2a265ea9]" started-at="2022-08-22T17:57:41 IST" name="TearDown" finished-at="2022-08-22T17:57:41 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Test.Wiki_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

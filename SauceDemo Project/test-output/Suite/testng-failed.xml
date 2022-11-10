@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Testing.validateaddtocart">
+        <methods>
+          <include name="lauchbroweser"/>
+          <include name="loginpage"/>
+          <include name="addtocart1"/>
+          <include name="closedriver"/>
+        </methods>
+      </class> <!-- Testing.validateaddtocart -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

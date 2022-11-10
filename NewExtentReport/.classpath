@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/docker-java-api-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/docker-java-core-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/docker-java-transport-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/docker-java-transport-httpclient5-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/gson-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/httpclient5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/httpcore5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/httpcore5-h2-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/jna-5.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Drivers/Web Driver Manage/webdrivermanager-5.3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

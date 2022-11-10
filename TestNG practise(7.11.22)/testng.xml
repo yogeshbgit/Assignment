@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test  name="test">
+  <classes>
+  	<!-- <class name="AllDropDown.AutoSuggestiveDropdown"></class>
+  	<class name="AllDropDown.StaticDropDown"></class>
+  	<class name="AllDropDown.DynamicDropDown"></class>
+  	<class name="CalenderControl.calendercontol"></class>
+  		<class name="EndtoEnd.EndtoEndpractise"></class>-->
+  		<class name="Testing.ProductSearch"/>
+  </classes>
+  </test> <!-- practise -->
+</suite> <!-- TestNG practise -->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!--<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Test.day1">
+      <methods>
+      <exclude name="test2"/>
+      </methods>
+      </class>
+      <class name="Test.day2">
+      	<methods>
+      	<include name="M2"/>
+      	</methods>
+      </class>
+      
+    </classes>
+  </test> 
+</suite> -->
+<suite name="Suite">
+  <test name="Test">
+  <groups>
+  <run>
+  <!--<include name="smoke"></include> -->
+  <exclude name="smoke"></exclude>
+  </run>
+  </groups>
+    <classes>
+		<class name="Test.day1"/>
+		<class name="Test.day2"/>
+    </classes>
+  </test> 
+</suite>
